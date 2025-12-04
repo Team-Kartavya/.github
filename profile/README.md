@@ -77,6 +77,6 @@ A **virtual hedging & price risk management platform** built for India’s 50M+ 
 TEAM KARTAVYA Stands for:
 **Commitment. Resilience. Innovation. Impact.**
 
-We build not just for the hackathon, **we build for India.**
+We build not just for the hackathon, **We build for India.**
 
 ---
